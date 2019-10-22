@@ -1,12 +1,12 @@
 love-nes 
 =========================================
 `love-nes` is a cross-platform `NES` emulator. 
-it written in `C#` with `.NET Core 2.0` env.
+it written in `C#` with `.NET Core 3.0` env.
 
 ![Screenshots](screenshots/1.png)
 
 ## Requirements
-* [.Net Core 2.0](https://www.microsoft.com/net/download)
+* [.Net Core 3.0](https://www.microsoft.com/net/download)
 
 [License (MIT)](https://raw.githubusercontent.com/dotnetGame/love-nes/master/LICENSE)
 -------------------------------------------------------------------------------
